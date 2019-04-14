@@ -1,0 +1,10 @@
+Popov
+Viktor
+45
+Teacher
+20000
+Savchenko
+Daria
+67
+Prefessor
+90000	
